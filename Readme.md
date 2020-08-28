@@ -1,5 +1,5 @@
 # Description
-This is the repository for my personal web site, it is oriented to comercial use and some blog posting. 
+This is the repository for my personal web site, it is oriented to comercial use.. 
 
 If you are interested can visit it at [here](https://www.adrianvazquez.com.ve).
 
